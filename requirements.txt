@@ -2,3 +2,12 @@ face_recognition
 opencv-python
 Pillow
 tk
+import face_recognition
+from face_recognition import face_locations
+import argparse
+import tkinter
+import cv2
+import subprocess
+#import tkMessageBox
+import time
+import datetime
