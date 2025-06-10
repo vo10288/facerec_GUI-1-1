@@ -25,7 +25,7 @@ sudo apt install cmake libboost-all-dev libopenblas-dev liblapack-dev
 
 python facial_gui.py
 .
-├── facial_gui.py                 # Main GUI script
+├── facereg_GUI.py                 # Main GUI script
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # This file
 ├── 03.reports/
